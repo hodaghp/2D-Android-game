@@ -1,5 +1,5 @@
 # 2D-Android-game
- 2D android game
+ #2D android game
  This game is included of a menue, shop, several levels,result boards after every play (like achived coins, scores, etc.)
  Don't use of any of assets for marketing or gaining money via it, it is just a Project in purpose of learning without any personal profits.
  ps: The last testing shows that this game doesn't work on Android 11 or upper.
