@@ -1,9 +1,10 @@
 # 2D-Android-game
- 2D android game                                                                                                                                                          
-2D android game
-This game is included a menu, shop, several levels, and result boards after every play (like achieved coins, scores, etc.)
-Don't use any of the assets for marketing or gaining money via it, it is just a Project for purpose of learning without any personal profits. Because of copyright Sprites' pictures were removed.
-ps: The last testing shows that this game doesn't work on Android 11 or upper.                                                                                             
+                                                                                                                                                         
+This project is a 2D game for the Android platform. It includes a menu, a shop where players can purchase items, several levels with increasing difficulty, and result boards that display achievements such as coins and scores. Please note that the sprites used in this game have been removed due to copyright reasons.
+
+This project was created solely for the purpose of learning and is not intended to be used for marketing or commercial purposes. There are no personal profits associated with this project.
+
+Please be aware that this game may not work on Android 11 or newer versions.
 
  ![Screenshot_20230206-225855](https://user-images.githubusercontent.com/39772964/217338593-c0addb53-6c0b-45d1-bdf2-11320573c983.png)
 ![Screenshot_20230206-225936](https://user-images.githubusercontent.com/39772964/217338814-af9f08af-9f87-4bee-9abc-0978bfcfe47c.png)
