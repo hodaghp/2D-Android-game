@@ -1,4 +1,4 @@
-# 2D-Android-game
+# 2D-Android-Game
                                                                                                                                                          
 This project is a 2D game for the Android platform. It includes a menu, a shop where players can purchase items, several levels with increasing difficulty, and result boards that display achievements such as coins and scores. Please note that the sprites used in this game have been removed due to copyright reasons.
 
