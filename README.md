@@ -8,3 +8,6 @@ Please be aware that this game may not work on Android 11 or newer versions.
 
  ![Screenshot_20230206-225855](https://user-images.githubusercontent.com/39772964/217338593-c0addb53-6c0b-45d1-bdf2-11320573c983.png)
 ![Screenshot_20230206-225936](https://user-images.githubusercontent.com/39772964/217338814-af9f08af-9f87-4bee-9abc-0978bfcfe47c.png)
+
+Script's Diagram
+![Diagram](https://github.com/hodaghp/2D-Android-game/assets/39772964/cbd5a731-f3e4-4ddb-92bb-7243050402cd)
